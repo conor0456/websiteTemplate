@@ -1,0 +1,13 @@
+.paraPic
+{
+    height:100vh;
+}
+.paraText
+{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 15%;
+    font-family: didot;
+    font-weight: 600;
+}
